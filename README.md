@@ -5,6 +5,8 @@ Developed a multi-agent AI system using LangGraph and the Ollama Gemma2b LLM mod
 
 
 # Graph
+Whole AI-BOT madeup of different AI Agent.
+Added multiple agents for Code Generation, Code Review, Rewrting new code
 ![graph](https://github.com/user-attachments/assets/ef2989d3-e247-4503-92a6-a61ad47f383c)
 
 # UI
